@@ -1,0 +1,7 @@
+# institutional data must never be committed
+*.xlsx
+*.xls
+*.pkl
+*.csv
+*.json
+__pycache__/
